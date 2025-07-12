@@ -1,4 +1,4 @@
-# 🏥 Doctor Appointment Scheduling Web App
+🏥 Doctor Appointment Scheduling Web App
 
 A full-stack MERN application for booking appointments between patients and doctors. It supports secure authentication, real-time slot management, and clear role-based workflows for users and doctors.
 
@@ -30,6 +30,23 @@ A full-stack MERN application for booking appointments between patients and doct
 - Slot-based dynamic availability logic
 
 ---
+## 🖼️ Screenshots
+
+### 🏠 Home Page
+<img width="1366" height="603" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/d7fa5f8a-d27e-450e-875d-703bd59b17e6" />
+
+
+### 👨‍⚕️ Doctors List
+<img width="1366" height="605" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/99217e31-f942-4087-b1aa-94a885b79341" />
+
+
+### 📅 My Appointments (User Panel)
+<img width="1366" height="610" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/a76cac92-7062-40b5-933f-0bfc22c6a47d" />
+
+
+### 🩺 Doctor Panel
+<img width="1366" height="600" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/744d3036-43fd-4889-8fee-907e1ea0b098" />
+
 
 ## 🛠️ Tech Stack
 
