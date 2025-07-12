@@ -81,9 +81,14 @@ npm install
 Create a `.env` file inside the `backend` folder and add:
 
 ```
-PORT=5000  
-MONGO_URL=your_mongodb_connection_string  
-JWT_SECRET=your_jwt_secret  
+PORT=5000
+MONGO_URL=your_mongodb_connection_string
+JWT_SECRET=your_jwt_secret
+CLOUDINARY_NAME=your_cloudinary_cloud_name
+CLOUDINARY_API_KEY=your_cloudinary_api_key
+CLOUDINARY_SECRET_KEY=your_cloudinary_secret
+ADMIN_EMAIL=your_admin_email
+ADMIN_PASSWORD=your_admin_password 
 ```
 
 Start the backend server:
