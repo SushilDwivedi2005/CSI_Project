@@ -1,6 +1,0 @@
-<svg width="200" height="60" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg" fill="none">
-  <rect x="0" y="0" width="60" height="60" rx="12" fill="#4F46E5"></rect>
-  <path d="M30 15C24.48 15 20 19.48 20 25C20 30.52 24.48 35 30 35C35.52 35 40 30.52 40 25C40 19.48 35.52 15 30 15ZM30 32.5C26.41 32.5 23.5 29.59 23.5 26C23.5 22.41 26.41 19.5 30 19.5C33.59 19.5 36.5 22.41 36.5 26C36.5 29.59 33.59 32.5 30 32.5Z" fill="white"></path>
-  <path d="M30 22V26H34" stroke="white" stroke-width="2" stroke-linecap="round"></path>
-  <text x="70" y="38" font-family="Arial, sans-serif" font-size="28" fill="#1F2937" font-weight="bold">Appoint</text>
-</svg>
