@@ -30,6 +30,13 @@ A full-stack MERN application for booking appointments between patients and doct
 - Slot-based dynamic availability logic
 
 ---
+📽️ Project Demo (YouTube)
+Watch the full walkthrough and explanation of the Doctor Appointment Management System built during my Celebal Summer Internship in the Node.js domain.
+
+[![Watch the video](https://img.youtube.com/vi/e_tThrednJQ/0.jpg)](https://youtu.be/e_tThrednJQ)
+
+
+
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
