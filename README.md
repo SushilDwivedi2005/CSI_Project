@@ -45,4 +45,75 @@ A full-stack MERN application for booking appointments between patients and doct
 
 ---
 
+## 🛠️ Setup Instructions (Local)
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/doctor-appointment-app.git  
+cd doctor-appointment-app
+```
+
+### 2. Setup Backend
+
+```bash
+cd backend  
+npm install  
+```
+
+Create a `.env` file inside the `backend` folder and add:
+
+```
+PORT=5000  
+MONGO_URL=your_mongodb_connection_string  
+JWT_SECRET=your_jwt_secret  
+```
+
+Start the backend server:
+
+```bash
+npm start
+```
+
+### 3. Setup Frontend (User Panel)
+
+```bash
+cd ../frontend  
+npm install  
+```
+
+Create a `.env` file in `frontend` folder:
+
+```
+VITE_BACKEND_URL=http://localhost:5000  
+```
+
+Start the frontend:
+
+```bash
+npm run dev  
+```
+
+Visit: [http://localhost:5173](http://localhost:5173)
+
+### 4. Setup Admin/Doctor Panel
+
+```bash
+cd ../admin  
+npm install  
+```
+
+Create a `.env` file in `admin` folder:
+
+```
+VITE_BACKEND_URL=http://localhost:5000  
+```
+
+Start the admin panel:
+
+```bash
+npm run dev  
+```
+
+Visit: [http://localhost:5174](http://localhost:5174)
 
